@@ -68,8 +68,8 @@
                         <h5 class="card-title">Blog</h5>
                         {{--<h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>--}}
                         <p class="card-text">Menambah atau merubah halaman blog</p>
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <a href="{{route('blog.index')}}" class="card-link btn btn-primary">List</a>
+                        <a href="{{route('blog.create')}}" class="card-link btn btn-primary">Tambah</a>
                     </div>
                 </div>
             </div>

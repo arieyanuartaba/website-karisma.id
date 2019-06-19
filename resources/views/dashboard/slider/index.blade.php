@@ -20,7 +20,7 @@
             <td>{{$slider->subheader}}</td>
             <td>
                 <a target="_blank" href="{{asset('/images/'.$slider->image)}}">
-                    <img src="{{asset('/images/'.$slider->image)}}" alt="Forest" style="width:150px">
+                    <img src="{{asset('/images/'.$slider->image)}}" alt="{{$slider->header}}" style="width:150px">
                 </a>
             </td>
             <td><a href="{{url('/slider/'.$slider->id.'/edit')}}" class="btn btn-warning">Edit</a>

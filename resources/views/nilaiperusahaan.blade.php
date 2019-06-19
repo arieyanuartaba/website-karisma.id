@@ -16,7 +16,7 @@
 
 
         <div class="col-md-5 col-sm-6" style="margin-right: 10px; margin-left: 120px; margin-top: 20px; ">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/excellent.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;"/>
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -33,7 +33,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/innovative.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;" />
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -52,7 +52,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-right: 10px; margin-left: 120px; margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/comprehensive.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;"/>
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -69,7 +69,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/integrity.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;" />
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -88,7 +88,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-right: 10px; margin-left: 120px; margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/growth.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;"/>
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -105,7 +105,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/persistence.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;" />
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -124,7 +124,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-right: 10px; margin-left: 120px; margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/harmony.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;"/>
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -141,7 +141,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/compassionate.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;" />
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">
@@ -160,7 +160,7 @@
         </div>
 
         <div class="col-md-5 col-sm-6" style="margin-right: 10px; margin-left: 120px; margin-top: 20px;">
-            <a href="single-project.html" class="portfolio_item">
+            <a href="#" class="portfolio_item">
                 <img src="{{asset('images/value/prosperous.jpg')}}" alt="image" class="img-responsive" style="width:100%; height: auto;"/>
                 <div class="portfolio_item_hover">
                     <div class="portfolio-border clearfix">

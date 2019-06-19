@@ -11,7 +11,7 @@
             <li><a href="{{url('/group/PT. Kartika Pradiptaprisma')}}">Group Kami</a></li>
             <li><a href="{{url('/timkami')}}">Tim Kami</a></li>
             <li><a href="{{url('/portofolio')}}">Portofolio</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="{{url('/karismablog/penanganan-sampah')}}">Blog</a></li>
             <li><a href="#">Karir</a></li>
             <li><a href="#">Hubungi Kami</a></li>
         </ul>

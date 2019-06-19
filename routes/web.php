@@ -75,6 +75,12 @@ Route::get('/theportopolio/create', ['as' => 'porto.create', 'uses' => 'Portofol
 Route::post('/theportopolio', ['as' => 'porto.store', 'uses' => 'PortofolioController@store']);
 Route::delete('/theportopolio/{portofolio}', ['as' => 'porto.destroy', 'uses' => 'PortofolioController@destroy']);
 
+//Route::get('/blogss', ['as' => 'blog.first', 'uses' => 'BlogController@firstpage']);
+Route::get('/karismablog/{blog}', ['as' => 'blog.first', 'uses' => 'BlogController@frontend']);
 Route::get('/dashboard/blog', ['as' => 'blog.index', 'uses' => 'BlogController@index']);
 Route::get('/blog/create', ['as' => 'blog.create', 'uses' => 'BlogController@create']);
+Route::get('/blog/{blog}', ['as' => 'blog.show', 'uses' => 'BlogController@show']);
 Route::post('/blog', ['as' => 'blog.store', 'uses' => 'BlogController@store']);
+Route::get('/blog/{blog}/edit', ['as' => 'blog.edit', 'uses' => 'BlogController@edit']);
+Route::patch('/blog/{blog}', ['as' => 'blog.update', 'uses' => 'BlogController@update']);
+Route::delete('/blog/{blog}', ['as' => 'blog.destroy', 'uses' => 'BlogController@destroy']);
